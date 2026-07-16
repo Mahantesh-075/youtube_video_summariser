@@ -1,7 +1,7 @@
 # YouTube Video Summariser 🚀
 
 An AI-powered web application that turns hours of YouTube videos into structured knowledge in seconds.
-(youtube_video_summariser/main/<img width="1919" height="984" alt="Screenshot 2026-05-03 233206" src="https://github.com/user-attachments/assets/020b4fa5-f623-4a51-ac43-aa431193e4c3" />
+<img width="1919" height="984" alt="Screenshot 2026-05-03 233206" src="https://github.com/user-attachments/assets/020b4fa5-f623-4a51-ac43-aa431193e4c3" />
 
 
 ## Features
